@@ -1,2 +1,2 @@
 # SentimentAnalysis
-Comparing different word embedding models and neural network architectures to determine effectiveness of sentiment prediction
+This was a university group (pairs of 2) project which I had a lot of fun doing because of my interests in NLP. The aim was to compare different word embedding models and neural network architectures to determine effectiveness of sentiment prediction. I compared simple CNN and LSTM neural networks with a combination of both to see which model yielded a higher accuracy. I also used two popular word embedding models in Word2Vec and GLOVE. The entire project was written in Python code and I used the NLTK and Keras libraries. I wrote a report outlining my findings that can be found in FindingsReport.pdf
